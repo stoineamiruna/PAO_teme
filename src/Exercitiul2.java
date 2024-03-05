@@ -55,7 +55,7 @@ public class Exercitiul2 {
                 else if (b<c)
                     System.out.print(a+"<"+b+"<"+c);
                 else
-                    System.out.print(a+"<"+c+"<"+a);
+                    System.out.print(a+"<"+c+"<"+b);
             }
             else{
                 System.out.print(c+"<"+a+"<"+b);

@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Exercitiul2/Exercitiul2.iml" filepath="$PROJECT_DIR$/Exercitiul2/Exercitiul2.iml" />
       <module fileurl="file://$PROJECT_DIR$/PAO_laborator.iml" filepath="$PROJECT_DIR$/PAO_laborator.iml" />
     </modules>
   </component>
