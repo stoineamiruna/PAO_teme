@@ -1,0 +1,5 @@
+Persoana{nume='Stoinea'; prenume='Miruna'; varsta=20'; suma='120.0', valuta='EUR}
+Persoana{nume='Stoinea'; prenume='Miruna'; varsta=30'; suma='1200.0', valuta='RON}
+Persoana{nume='Popescu'; prenume='Ionel'; varsta=43'; suma='1400.0', valuta='EUR}
+Persoana{nume='Popescu'; prenume='Ionel'; varsta=42'; suma='1500.0', valuta='RON}
+Persoana{nume='Stoinea'; prenume='Miruna'; varsta=21'; suma='1200.0', valuta='EUR}
