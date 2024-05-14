@@ -25,8 +25,9 @@ public class Main {
 
         for (int i = 3; i <= 102; i++) {
             Timestamp expTime = new Timestamp(System.currentTimeMillis() + 40000);
-            StoredObject newObj = new StoredObject("StoredObject: " + i, expTime);
-            mycache.addStoredObject(i, newObj);
+            StoredObject storedObject = new StoredObject("StoredObject: " + i, expTime);
+            mycache.addStoredObject(i, storedObject);
+            System.out.println("add StoredObject: " + storedObject);
             try {
                 Thread.sleep(100);
             } catch (InterruptedException e) {
