@@ -23,7 +23,7 @@ public class Main {
         mycache.start();
 
 
-        for (int i = 3; i <= 102; i++) {
+        for (int i = 5; i <= 104; i++) {
             Timestamp expTime = new Timestamp(System.currentTimeMillis() + 40000);
             StoredObject storedObject = new StoredObject("StoredObject: " + i, expTime);
             mycache.addStoredObject(i, storedObject);
